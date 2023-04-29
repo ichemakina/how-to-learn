@@ -1,7 +1,6 @@
 .video__iframes {
-  margin-top: 50px;
   display: flex;
   flex-direction: row;
   column-gap: 20px;
-  transform: translate(0 -50%);
+  transform: translate(0, 50px);
 }
